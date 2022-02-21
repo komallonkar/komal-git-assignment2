@@ -1,0 +1,11 @@
+git init
+git pull https://github.com/sachinpatil101/hw.git
+git remote add origin https://github.com/komallonkar/komal-git-assignment2.git
+notepad myself.txt
+git status
+git add .
+git commit -m "added my introduction file"
+notepad participants.md
+git status
+git add .
+git push -u origin master
