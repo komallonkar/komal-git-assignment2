@@ -17,6 +17,7 @@ A list of participants in CSC 195
 * Samuel A. Rebelsky
 * Abby E. Stevens
 * Zoe Wolter
+* Lonkar Komal
 * Muhammad Samee Zahid
 * Mira E. Hall
 * Noah D. Schlager
